@@ -1,0 +1,13 @@
+deepface
+pinecone-client
+fastapi
+uvicorn
+python-jose[cryptography]
+passlib[bcrypt]
+sqlalchemy
+db-sqlite3
+opencv-python
+openpyxl
+pandas
+numpy
+tf-keras
